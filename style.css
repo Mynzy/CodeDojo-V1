@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(151, 231, 225);
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.biodata {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.description {
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  margin: 0px 50px 0px 50px;
+}
+
+.my-picture {
+  display: flex;
+  justify-content: center;
+}
+
+.comment-form {
+    margin: 50px 0px 50px 50px;
+}
